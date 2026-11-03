@@ -1,0 +1,5 @@
+DEBUG: Register validation failed: {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+DEBUG: Register validation failed: {'username': [ErrorDetail(string='Enter a valid username. This value may contain only letters, numbers, and @/./+/-/_ characters.', code='invalid')], 'email': [ErrorDetail(string='Enter a valid email address.', code='invalid')]}
+DEBUG: Register validation failed: {'email': [ErrorDetail(string='Enter a valid email address.', code='invalid')]}
+DEBUG: Register validation failed: {'non_field_errors': [ErrorDetail(string='Your Roll Number and/or Email do not match our authorized records. Please check your details.', code='invalid')]}
+DEBUG: Register validation failed: {'non_field_errors': [ErrorDetail(string='Your Roll Number and/or Email do not match our authorized records. Please check your details.', code='invalid')]}

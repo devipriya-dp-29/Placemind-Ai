@@ -1,0 +1,10 @@
+django
+djangorestframework
+mysqlclient
+django-cors-headers
+scikit-learn
+pandas
+numpy
+pillow
+djangorestframework-simplejwt
+
